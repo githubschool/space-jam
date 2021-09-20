@@ -1,4 +1,4 @@
-# GitHub for Developers
+# GitHub for Developers 🦄
 
 - Class Date: September 20-23, 2021
 - Facilitator: @allthedoll
