@@ -30,6 +30,8 @@
 - [Git Viz](https://peleke.github.io/git-viz/)
 - [Git Graph Extension for VS Code](https://marketplace.visualstudio.com/items?itemName=mhutchie.git-graph)
 - [LearnGitBranching](http://learngitbranching.js.org/?NODEMO)
+- [Markdown Editing Extension for VS Code](https://marketplace.visualstudio.com/items?itemName=docsmsft.docs-markdown)
+- [Markdown Preview Extension for VS Code](https://marketplace.visualstudio.com/items?itemName=docsmsft.docs-preview)
 
 #### GitHub Documentation and Help
 
