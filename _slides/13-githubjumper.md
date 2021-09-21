@@ -3,7 +3,7 @@ layout: slide
 title: "Welcome to our slide deck!"
 ---
 
-Updating to inflatocat
+I am your father~
 
-![inflatocat](https://octodex.github.com/images/inflatocat.png)
+![inflatocat](https://octodex.github.com/images/stormtroopocat.png)
 {: .center}
