@@ -30,6 +30,8 @@
 - [Git Viz](https://peleke.github.io/git-viz/)
 - [Git Graph Extension for VS Code](https://marketplace.visualstudio.com/items?itemName=mhutchie.git-graph)
 - [LearnGitBranching](http://learngitbranching.js.org/?NODEMO)
+- [Markdown Editing Extension for VS Code](https://marketplace.visualstudio.com/items?itemName=docsmsft.docs-markdown)
+- [Markdown Preview Extension for VS Code](https://marketplace.visualstudio.com/items?itemName=docsmsft.docs-preview)
 
 #### GitHub Documentation and Help
 
@@ -38,6 +40,7 @@
 - [GitHub Help Documentation](https://help.github.com/)
 - [GitHub Enterprise Documentation](https://help.github.com/enterprise/)
 - [Enterprise Support](https://enterprise.github.com/support)
+- [Setting up multiple Git accounts on one computer](https://www.youtube.com/watch?v=2MGGJtTH0bQ&t=632s)
 
 #### Git and IDEs Webcasts
 
