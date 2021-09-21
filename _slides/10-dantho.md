@@ -1,16 +1,9 @@
 ---
 layout: slide
-title: "Join the 115-Club!"
+title: "Welcome to our slide deck!"
 ---
-# Teradyne 115-Club
-Founded circa 2003, with [TER (NYSE)](https://eresearch.fidelity.com/eresearch/goto/evaluate/snapshot.jhtml?symbols=TER) at ~$10 but with optimism for a quick return to it's all-time-high from the year 2000, $115.
 
-Dissolved December 2020, **Goal Achieved**
+I'm a Git Ninja now!!
 
-## Founding members:
-    Dan Thornton
-
-## Members at disolution:
-    Dan Thornton
-
-[TER (NYSE)](https://eresearch.fidelity.com/eresearch/goto/evaluate/snapshot.jhtml?symbols=TER)
+![boxertocat](https://octodex.github.com/images/boxertocat_octodex.jpg)
+{: .center}
