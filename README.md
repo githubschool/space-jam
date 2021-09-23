@@ -60,3 +60,4 @@ After you have completed this course, you are probably wondering where to go fro
 
 - [GitHub Learning Lab](https://lab.github.com/): self-paced courses with instant bot-assisted feedback.
 - [Join the open source community](https://github.com/open-source)
+- [Gist for multiple accounts](https://gist.github.com/allthedoll/45667c2c29873336ab18846bfef9d417)
